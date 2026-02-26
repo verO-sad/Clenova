@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Членова</title>
+</head>
+<body background='винипух.jpg'>
+<p><center><big><b><i>Членова Виолетта Павловна </i></b></big></center></p>
+<p><u>Год рождения: 2008</u></br></p>
+<p><small>Место рождения: Самара</small></br></p>
+<p><small>Адрес: ул. Моссковское шоссе 18 км дом 35</small></br></p>
+<p>Номер школы: 128</p>
+<p><ol><li>математика <li>физкультура <li>литература </ol></p>
+<p><ul><li>суши <li>паста <li>виноград </ul></p>
+<a href='bgcolor.html'>БУМ</a>
+</body>
+</html>
